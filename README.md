@@ -73,7 +73,7 @@
   <a href="https://github.com/PhongBarves" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="jukie-github" />
   </a>
-  <a href="https://instagram.com/dien_2004" target="blank">
+  <a href="https://instagram.com/PhongBarves" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="jukie-twitter" />
   </a>
   <a href="mailto:vuxuanphong.user@gmailhotmail.com" target="top">
@@ -91,4 +91,5 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
 
 </div>
+
 
